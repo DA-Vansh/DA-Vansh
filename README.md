@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DA-Vansh
-- 👀 I’m interested in learning and practicing coding in SQL (Database Admin and Dev), Python (Flask, Numpy, Pandas, MatplotLib, Sci-kit, and more)
-- 🌱 I’m currently learning SQL and Python.
-- 💞️ I’m looking to collaborate on SQL database development and creating front end web application
+- 👀 Data-driven learner.
+- Currently pursuing to expand my knowledge by learning Python micro-framework Flask, PHP, MYSQL, and APACHE (learning and uploading code scripts on GitHub).
+- It wasnt planned but I am learning to be a Web Application Developer.  
 - 📫 How to reach me @VanshShahvansh (Twitter) / Vansh9842 (LinkedIn)
 
 <!---
